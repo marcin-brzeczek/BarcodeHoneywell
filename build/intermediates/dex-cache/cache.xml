@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\mbrzeczek\.android\build-cache\975e2252ffd1e78c40efa18268ef4f1a3b5cc667\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4eb61e6831073b5125c57d5aca97ac855982914c">
+        <dex dex="C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\build\intermediates\pre-dexed\debug\classes_26e1be8462ec10ca984ff8f365b2ba7c0011e048.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,109 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:2:137-175
+		INJECTED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:2:102-136
+		INJECTED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:2:70-101
+		INJECTED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:4:5-73
+MERGED from [BarcodeExample:DataCollectionLib:unspecified] C:\Users\mbrzeczek\.android\build-cache\975e2252ffd1e78c40efa18268ef4f1a3b5cc667\output\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:4:42-71
+		INJECTED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:4:15-41
+		INJECTED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:6:5-35:19
+MERGED from [BarcodeExample:DataCollectionLib:unspecified] C:\Users\mbrzeczek\.android\build-cache\975e2252ffd1e78c40efa18268ef4f1a3b5cc667\output\AndroidManifest.xml:13:5-17:19
+	android:label
+		ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:6:91-123
+	android:debuggable
+		ADDED from [BarcodeExample:DataCollectionLib:unspecified] C:\Users\mbrzeczek\.android\build-cache\975e2252ffd1e78c40efa18268ef4f1a3b5cc667\output\AndroidManifest.xml:15:9-35
+	android:allowBackup
+		ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:6:18-44
+	android:icon
+		ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:6:45-90
+	android:theme
+		ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:6:124-155
+activity#com.honeywell.barcodeexample.MainActivity
+ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:7:9-13:20
+	android:screenOrientation
+		ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:7:109-145
+	android:label
+		ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:7:19-51
+	android:name
+		ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:7:52-108
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:8:13-12:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:9:17-68
+	android:name
+		ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:9:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:11:17-76
+	android:name
+		ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:11:27-74
+activity#com.honeywell.barcodeexample.AutomaticBarcodeActivity
+ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:screenOrientation
+		ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:14:120-156
+	android:label
+		ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:14:19-50
+	android:name
+		ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:14:51-119
+intent-filter#android.intent.action.AUTOMATICBARCODEACTIVITY+android.intent.category.DEFAULT
+ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.AUTOMATICBARCODEACTIVITY
+ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:16:17-88
+	android:name
+		ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:16:25-86
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:18:17-75
+	android:name
+		ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:18:27-73
+activity#com.honeywell.barcodeexample.ClientBarcodeActivity
+ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:21:9-27:20
+	android:screenOrientation
+		ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:21:117-153
+	android:label
+		ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:21:19-50
+	android:name
+		ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:21:51-116
+intent-filter#android.intent.action.CLIENTBARCODEACTIVITY+android.intent.category.DEFAULT
+ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.CLIENTBARCODEACTIVITY
+ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:23:17-85
+	android:name
+		ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:23:25-83
+activity#com.honeywell.barcodeexample.ScannerSelectionBarcodeActivity
+ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:28:9-34:20
+	android:screenOrientation
+		ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:28:127-163
+	android:label
+		ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:28:19-50
+	android:name
+		ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:28:51-126
+intent-filter#android.intent.action.SCANNERSELECTBARCODEACTIVITY+android.intent.category.DEFAULT
+ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.SCANNERSELECTBARCODEACTIVITY
+ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:30:17-92
+	android:name
+		ADDED from C:\Users\mbrzeczek\AndroidStudioProjects\BarcodeExample\app\src\main\AndroidManifest.xml:30:25-90
+uses-permission#com.honeywell.decode.permission.DECODE
+ADDED from [BarcodeExample:DataCollectionLib:unspecified] C:\Users\mbrzeczek\.android\build-cache\975e2252ffd1e78c40efa18268ef4f1a3b5cc667\output\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from [BarcodeExample:DataCollectionLib:unspecified] C:\Users\mbrzeczek\.android\build-cache\975e2252ffd1e78c40efa18268ef4f1a3b5cc667\output\AndroidManifest.xml:11:22-75
